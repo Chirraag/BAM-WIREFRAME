@@ -1,0 +1,1 @@
+export type MessageType = 'all' | 'whatsapp' | 'sms' | 'email';
